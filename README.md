@@ -65,4 +65,4 @@ GammaPerp provides a comprehensive API surface for both frontend interactions an
 
 <!-- Last Activity: 2026-01-29T11:14:54.521Z -->
 
-<!-- Last Activity: 2026-02-02T07:06:13.547Z -->
+<!-- Last Activity: 2026-02-02T08:06:24.426Z -->
